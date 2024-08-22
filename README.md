@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a graduate student at Cell and Molecular Biology Department, Tulane University. I am interested to learn more about bioinformatics.
+
 <!--
 **kthapa101/kthapa101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
